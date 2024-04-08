@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+*
+# virtualenv
+venv/
+
+# User-specific stuff
+.idea/*
